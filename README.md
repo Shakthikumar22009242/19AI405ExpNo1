@@ -101,5 +101,8 @@
     agent.print_status()
 </p>
 <h2>OUTPUT</h2>
+![Screenshot 2025-04-21 085834](https://github.com/user-attachments/assets/43f0b13e-c312-49a8-b676-4cc8daf7f9e9)
+
+
 <h2>RESULT</h2>
 <p>Thus Developing AI Agent with PEAS Description is achieved using python programming</p>
