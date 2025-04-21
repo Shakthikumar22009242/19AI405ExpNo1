@@ -101,5 +101,7 @@
     agent.print_status()
 </p>
 <h2>OUTPUT</h2>
+<img src="exp011.png" alt="Output Image" width="500">
+
 <h2>RESULT</h2>
 <p>Thus Developing AI Agent with PEAS Description is achieved using python programming</p>
